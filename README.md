@@ -1,2 +1,1 @@
-# Grava-o-de-udio-com-um-banco-de-dados
-Um codigo usando banco de dados junto com python
+Eu fiz um banco de dados usando sqlite3 (uma biblioteca do python),  criei um banco chamado "voz.db" que grava o ID, o nome, e o áudio. Foi bem divertido faze-lo, a captura de áudio dura 10 segundos, nela conta também os Buffers, que são basicamente a definição da qualidade do áudio. Esse é meu primeiro projeto usando banco de dados junto à uma programação, no caso python, adorei esse projeto, talvez mecha nele mais pro futuro (fiquem de olho)
